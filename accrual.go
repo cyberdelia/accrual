@@ -1,4 +1,4 @@
-// Accrual is an implementation of the φ Accrual Failure Detector.
+// Package accrual is an implementation of the φ Accrual Failure Detector.
 // For details see: https://dspace.jaist.ac.jp/dspace/bitstream/10119/4784/1/IS-RR-2004-010.pdf
 package accrual
 
