@@ -43,5 +43,5 @@ func variance(values []int64) float64 {
 		d := float64(v) - m
 		sum += d * d
 	}
-	return float64(sum) / float64(len(values))
+	return sum / float64(len(values))
 }
